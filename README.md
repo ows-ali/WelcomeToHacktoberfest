@@ -12,3 +12,4 @@ This repo is for everyone who wants to participate in Hacktoberfest. It is a beg
 | Name | Country    | Favorite Languages    |
 | :---:   | :---: | :---: |
 | Owais Ali | Pakistan   | JS, NodeJS   |
+| Nirtan Baria | Pakistan   | JS, C#   |
